@@ -296,6 +296,12 @@ padding: 120px 0;
     gap: 24px;
 }
 
+.network-logo-list{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
 .title-advantages{
     text-transform: capitalize;
     font-weight: 700;
