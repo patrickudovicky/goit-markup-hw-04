@@ -194,8 +194,7 @@ background-image:
 linear-gradient(
     to bottom,
     #2E2F42B3,
-    #2E2F42B3
-),
+    #2E2F42B3),
 url(/goit-markup-hw-04/images/people-office\ 1.jpg);
 background-position: center;
 background-size: cover;
@@ -269,9 +268,7 @@ width: calc((100% - 72px) / 4);
 }
 
 .logo-advantages{
-
 }
-
 .our-team{
 background-color: var(--cloud);
 padding: 120px 0;
