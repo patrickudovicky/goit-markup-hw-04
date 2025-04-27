@@ -193,9 +193,10 @@ padding: 188px 0;
 background-image: 
 linear-gradient(
     to bottom,
-    #2E2F42B3,
-    #2E2F42B3),
+    rgba(46, 47, 66, 0.7),
+    rgba(46, 47, 66, 0.7)),
 url(/goit-markup-hw-04/images/people-office\ 1.jpg);
+max-width: 1440px; 
 background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
@@ -233,6 +234,7 @@ padding: 16px 0;
 border-radius: 4px;
 border: none;
 margin: 0 auto;
+transition:  250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .order-button:hover,
 .order-button:focus{
