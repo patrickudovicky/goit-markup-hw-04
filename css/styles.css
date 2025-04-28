@@ -518,6 +518,11 @@ margin-bottom: 16px;
     height: 40px;
  }
 
+.logo-footer-box{
+    margin-right: 120px;
+    margin-left: 0;
+}
+
  .network-link-footer{
     width: 100%;
     height: 100%;
@@ -537,4 +542,5 @@ background-color: #31d0aa;
  .network-foot-icon{
     width: 24px;
     height: 24px;
+    fill: #f4f4fd;
  }
